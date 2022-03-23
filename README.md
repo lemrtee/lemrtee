@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lemrtee
-- 👀 I’m interested in making rails, javascript {...rest}
+- 👀 I’m interested in making rails, javascript applications {...rest}
 - 🌱 I’m currently learning golang and astronomy!
 - 💞️ I’m looking to collaborate on anything meaninful 
 - 📫 How to reach me? Easily on email
